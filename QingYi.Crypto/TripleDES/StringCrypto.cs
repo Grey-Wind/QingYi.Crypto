@@ -1,4 +1,4 @@
-﻿using DES;
+﻿using QingYi.Crypto.DES;
 using System;
 using System.Text;
 

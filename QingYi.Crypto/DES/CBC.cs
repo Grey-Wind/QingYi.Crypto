@@ -3,7 +3,7 @@ using System.IO;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace DES
+namespace QingYi.Crypto.DES
 {
     /// <summary>
     /// CBC mode.

@@ -3,7 +3,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System;
 
-namespace DES
+namespace QingYi.Crypto.DES
 {
     /// <summary>
     /// ECB mode.
