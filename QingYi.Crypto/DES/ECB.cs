@@ -8,6 +8,7 @@ namespace QingYi.Crypto.DES
     /// <summary>
     /// ECB mode.
     /// </summary>
+    [Obsolete]
     public class ECB
     {
         /// <summary>

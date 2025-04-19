@@ -8,6 +8,7 @@ namespace QingYi.Crypto.DES
     /// <summary>
     /// CBC mode.
     /// </summary>
+    [Obsolete]
     public class CBC
     {
         /// <summary>
